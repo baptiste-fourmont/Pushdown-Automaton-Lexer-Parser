@@ -1,0 +1,12 @@
+input symbols: a, b, c
+stack symbols: A, B, C, Z
+states: 1, 2
+initial state: 1
+initial stack symbol: Z
+
+program:
+	case state of
+	1: begin
+		case next of
+			a: push A
+		end

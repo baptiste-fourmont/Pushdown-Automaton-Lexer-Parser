@@ -1,0 +1,5 @@
+acc: Aucune transition
+aaabcbaa
+abcba
+aabbcbbaa
+bacab

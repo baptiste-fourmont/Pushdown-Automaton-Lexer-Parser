@@ -1,0 +1,27 @@
+Nous avons réalisées toutes les parties du Sujet
+La partie 1 et 2 se trouve dans exemple:
+    vous devez allez dans code et faire make
+    ./parser <fichier> <mot a evaluer>
+    ./parser ../palindrome aaabcbaaa 
+
+La partie 3 correspond à l'exemple 2:
+    allez dans code ->
+        Il y aura un makefile faîtes make
+        ./parser <fichier> <mot a evaluer>
+        par exemple 
+        ./parser ../palindrome aaabcbaaa 
+
+
+Nous avons chacun travaillé quand nous le pouvions:
+    -> D'abord sur un git externe au git fourni pour pouvoir tester comme nous le voulions
+    puis sur le gitlab.
+    -> Chacun à son tour, on a travaillé de facon autonome, puis de temps en temps on avait quelque
+    réunions entre nous.
+    -> Nous avions tout les deux bien travaillé sur la phase_1 car
+        Nous connaissions tout les deux bien les automates à pile 
+    -> La partie 2 a été bien plus compliqué avec menhir 
+        -> Surtout le fait de parser en LR1
+            A plusieurs reprise nous avions essayer de faire un menhir mais il n'était pas LR1
+
+Nous avons eu beaucoup de soucis dû au divergence entre le parsing du pdf et des exemples 
+n'étaient pas similaire ce qui nous a beaucoup fait perdre de temps.

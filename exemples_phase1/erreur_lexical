@@ -1,0 +1,9 @@
+input symbols: a, b, c
+stack symbols: A, B, C, Z
+states: 1, 2
+initial state: 1
+initial stack: Z
+
+(2,,Z,2,)
+
+end

@@ -1,0 +1,13 @@
+input symbols: a, b, c
+stack symbols: A, B, C, Z
+states: 1, 2
+initial state: 1
+initial stack: X
+
+transitions:
+
+(1,a,Z,1,Z;A)
+(1,b,Z,1,Z;B)
+(1,c,Z,2,Z)
+
+end
